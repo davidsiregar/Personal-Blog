@@ -232,22 +232,7 @@ body .form {
   width: 30px;
   float: right;
 }
-/* fokus */
-/* .form .form-container .input-blog-image {
-  background-color: red;
-  width: 100%;
-  display: flex;
-} */
-/* .form .form-container .input-blog-image .left {
-  flex: 50%;
-}
 
-.form .form-container .input-blog-image .right {
-  flex: 50%;
-} */
-/* .form .form-container .input-blog-image .input-blog-image-group img {
-  margin-left: 30px;
-} */
 .form .form-container .input-blog-image-group {
   /* padding: 4px; */
   /* margin-top: 5px; */
